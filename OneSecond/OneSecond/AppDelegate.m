@@ -4,7 +4,7 @@
 //
 //  Created by uper on 16/5/12.
 //  Copyright © 2016年 uper. All rights reserved.
-//  wangqing
+//  wangqing 11
 
 #import "AppDelegate.h"
 #import "PushManager.h"
