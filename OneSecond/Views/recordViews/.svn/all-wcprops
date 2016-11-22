@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/SecondVideo/!svn/ver/11/trunk/OneSecond/Views/recordViews
+END
+RecordVideoProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/RecordVideoProgress.h
+END
+TranslucentButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/TranslucentButton.h
+END
+PBJVisionUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/PBJVisionUtilities.h
+END
+RecordVideoProgress.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SecondVideo/!svn/ver/11/trunk/OneSecond/Views/recordViews/RecordVideoProgress.m
+END
+Shader.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/Shader.fsh
+END
+RecordVideoButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/RecordVideoButton.h
+END
+TranslucentButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/TranslucentButton.m
+END
+PBJVision.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/PBJVision.h
+END
+PBJVisionUtilities.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/PBJVisionUtilities.m
+END
+RecordVideoButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/RecordVideoButton.m
+END
+PBJVision.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/PBJVision.m
+END
+Shader.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/Shader.vsh
+END
+RecordVideoDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/RecordVideoDefine.h
+END
+HJImagesToVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/HJImagesToVideo.h
+END
+CameraCoverView.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/CameraCoverView.h
+END
+HJImagesToVideo.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/HJImagesToVideo.m
+END
+CameraCoverView.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/recordViews/CameraCoverView.m
+END

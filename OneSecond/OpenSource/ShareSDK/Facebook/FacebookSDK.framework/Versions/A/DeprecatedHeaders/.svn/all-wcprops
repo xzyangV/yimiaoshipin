@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders
+END
+FBOpenGraphAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBOpenGraphAction.h
+END
+FBSessionManualTokenCachingStrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSessionManualTokenCachingStrategy.h
+END
+FBOpenGraphActionParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBOpenGraphActionParams.h
+END
+FBLikeControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBLikeControl.h
+END
+FBTooltipView.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBTooltipView.h
+END
+FBSDKMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSDKMacros.h
+END
+FBProfilePictureView.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBProfilePictureView.h
+END
+FBInsights.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBInsights.h
+END
+FBAppLinkData.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBAppLinkData.h
+END
+FBOpenGraphActionShareDialogParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBOpenGraphActionShareDialogParams.h
+END
+FBError.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBError.h
+END
+FBGraphLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphLocation.h
+END
+FBFrictionlessRecipientCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBFrictionlessRecipientCache.h
+END
+FBAccessTokenData.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBAccessTokenData.h
+END
+FBFrictionlessRequestSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBFrictionlessRequestSettings.h
+END
+FBUserSettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBUserSettingsViewController.h
+END
+FBShareDialogPhotoParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBShareDialogPhotoParams.h
+END
+FBSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSettings.h
+END
+FacebookSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FacebookSDK.h
+END
+FBLoginView.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBLoginView.h
+END
+FBFriendPickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBFriendPickerViewController.h
+END
+FBGraphPlace.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphPlace.h
+END
+FBRequestConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBRequestConnection.h
+END
+FBDialogsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBDialogsData.h
+END
+FBAppCall.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBAppCall.h
+END
+FBColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBColor.h
+END
+FBLoginTooltipView.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBLoginTooltipView.h
+END
+FBWebDialogs.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBWebDialogs.h
+END
+FBAppLinkResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBAppLinkResolver.h
+END
+FBPlacePickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBPlacePickerViewController.h
+END
+FBPeoplePickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBPeoplePickerViewController.h
+END
+FBDialogs.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBDialogs.h
+END
+FBSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSession.h
+END
+FBTestSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBTestSession.h
+END
+FBLinkShareParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBLinkShareParams.h
+END
+FBSessionTokenCachingStrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSessionTokenCachingStrategy.h
+END
+FBGraphObjectPickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphObjectPickerViewController.h
+END
+FBDialogsParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBDialogsParams.h
+END
+FBShareDialogParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBShareDialogParams.h
+END
+FBLoginDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBLoginDialog.h
+END
+FBGraphPerson.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphPerson.h
+END
+FBGraphObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphObject.h
+END
+FBRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBRequest.h
+END
+FBNativeDialogs.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBNativeDialogs.h
+END
+FBConnect.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBConnect.h
+END
+FBTaggableFriendPickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBTaggableFriendPickerViewController.h
+END
+FBPhotoParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBPhotoParams.h
+END
+FBDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBDialog.h
+END
+FBGraphUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphUser.h
+END
+Facebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/Facebook.h
+END
+FBCacheDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBCacheDescriptor.h
+END
+FBAppEvents.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBAppEvents.h
+END
+FBOpenGraphObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBOpenGraphObject.h
+END
+FBErrorUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBErrorUtility.h
+END
+FBViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBViewController.h
+END
+NSError+FBError.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/Facebook/FacebookSDK.framework/Versions/A/DeprecatedHeaders/NSError+FBError.h
+END

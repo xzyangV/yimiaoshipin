@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers
+END
+WeiyunAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers/WeiyunAPI.h
+END
+TencentApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentApiInterface.h
+END
+QQApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers/QQApiInterface.h
+END
+TencentMessageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentMessageObject.h
+END
+WeiBoAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers/WeiBoAPI.h
+END
+sdkdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers/sdkdef.h
+END
+TencentOAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentOAuth.h
+END
+QQApiInterfaceObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h
+END
+TencentOAuthObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/ShareSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentOAuthObject.h
+END

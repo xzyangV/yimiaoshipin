@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/SecondVideo/!svn/ver/60/trunk/OneSecond/OneSecond
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OneSecond/main.m
+END
+userGuide-info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SecondVideo/!svn/ver/9/trunk/OneSecond/OneSecond/userGuide-info.plist
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OneSecond/AppDelegate.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SecondVideo/!svn/ver/35/trunk/OneSecond/OneSecond/Info.plist
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/SecondVideo/!svn/ver/62/trunk/OneSecond/OneSecond/AppDelegate.m
+END
+SecondVideo-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SecondVideo/!svn/ver/8/trunk/OneSecond/OneSecond/SecondVideo-Prefix.pch
+END
+CommonDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SecondVideo/!svn/ver/30/trunk/OneSecond/OneSecond/CommonDefine.h
+END
+ChannelStatistic.plist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OneSecond/ChannelStatistic.plist
+END

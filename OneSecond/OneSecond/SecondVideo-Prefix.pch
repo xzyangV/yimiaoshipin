@@ -1,0 +1,43 @@
+//
+//  SecondVideo-Prefix.pch
+//  一秒视频UP
+//
+//  Created by uper on 16/5/11.
+//  Copyright © 2016年 uper. All rights reserved.
+//
+
+#ifndef SecondVideo_Prefix_pch
+#define SecondVideo_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+    #import "CommonDefine.h"
+    #import "MBProgressHUD+CMBProgressHUD.h"
+    #import "UIView+CustomView.h"
+    #import "PublicObject.h"
+    #import "UPNetworkManager.h"
+    #import "SecondBusinessDefine.h"
+    #import "BizCommon.h"
+    #import "MBProgressHUD.h"
+    #import "ShareTypeDef.h"
+    #import "AppKeyDefine.h"
+    #import "EventKeyDefine.h"
+#endif /* SecondVideo_Prefix_pch */
+
+#ifdef DEBUG
+static const int ddLogLevel = 0xFFFFF;
+#else
+static const int ddLogLevel = 0x000FF;
+#endif
+
+#if __IPHONE_OS_VERSION_MIN_REQUIRED >= __IPHONE_6_0
+#define MYTextAlignmentCenter NSTextAlignmentCenter
+#define MYTextAlignmentRight NSTextAlignmentRight
+#define MYTextAlignmentLeft NSTextAlignmentLeft
+#else
+#define MYTextAlignmentCenter NSTextAlignmentCenter
+#define MYTextAlignmentRight NSTextAlignmentRight
+#define MYTextAlignmentLeft NSTextAlignmentLeft
+#endif
+
+#define _AFNETWORKING_ALLOW_INVALID_SSL_CERTIFICATES_

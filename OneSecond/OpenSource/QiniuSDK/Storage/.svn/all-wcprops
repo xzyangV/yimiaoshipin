@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage
+END
+QNResumeUpload.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNResumeUpload.m
+END
+QNUpToken.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNUpToken.m
+END
+QNConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNConfiguration.m
+END
+QNFormUpload.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNFormUpload.m
+END
+QNUploadOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNUploadOption.h
+END
+QNUploadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNUploadManager.h
+END
+QNUploadOption.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNUploadOption.m
+END
+QNUploadOption+Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNUploadOption+Private.h
+END
+QNUploadManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNUploadManager.m
+END
+QNResumeUpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNResumeUpload.h
+END
+QNUpToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNUpToken.h
+END
+QNConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNConfiguration.h
+END
+QNFormUpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/QiniuSDK/Storage/QNFormUpload.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Local
+END
+QNHosts.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Local/QNHosts.h
+END
+QNHijackingDetectWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Local/QNHijackingDetectWrapper.h
+END
+QNResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Local/QNResolver.h
+END
+QNTxtResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Local/QNTxtResolver.h
+END
+QNHosts.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Local/QNHosts.m
+END
+QNHijackingDetectWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Local/QNHijackingDetectWrapper.m
+END
+QNResolver.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Local/QNResolver.m
+END
+QNTxtResolver.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Local/QNTxtResolver.m
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/SecondVideo/!svn/ver/48/trunk/OneSecond/Model/VideoRecord
+END
+VideoObjectList.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/VideoObjectList.h
+END
+RecordVideoObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/RecordVideoObject.h
+END
+VideoObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SecondVideo/!svn/ver/5/trunk/OneSecond/Model/VideoRecord/VideoObject.h
+END
+VideoObjectList.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/VideoObjectList.m
+END
+RecordVideoObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/5/trunk/OneSecond/Model/VideoRecord/RecordVideoObject.m
+END
+VideoClipObjectList.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/VideoClipObjectList.h
+END
+VideoObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SecondVideo/!svn/ver/15/trunk/OneSecond/Model/VideoRecord/VideoObject.m
+END
+MusicObjectList.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/MusicObjectList.h
+END
+PosterObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SecondVideo/!svn/ver/15/trunk/OneSecond/Model/VideoRecord/PosterObject.h
+END
+VideoClipObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/VideoClipObject.h
+END
+VideoClipObjectList.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/VideoClipObjectList.m
+END
+MusicObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/MusicObject.h
+END
+PosterTopicList.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SecondVideo/!svn/ver/10/trunk/OneSecond/Model/VideoRecord/PosterTopicList.h
+END
+MusicObjectList.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SecondVideo/!svn/ver/48/trunk/OneSecond/Model/VideoRecord/MusicObjectList.m
+END
+PosterObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SecondVideo/!svn/ver/10/trunk/OneSecond/Model/VideoRecord/PosterObject.m
+END
+VideoClipObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/VideoClipObject.m
+END
+PosterTopicList.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SecondVideo/!svn/ver/14/trunk/OneSecond/Model/VideoRecord/PosterTopicList.m
+END
+MusicObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Model/VideoRecord/MusicObject.m
+END

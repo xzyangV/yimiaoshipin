@@ -1,0 +1,61 @@
+10
+
+dir
+61
+http://yangxiaozhou@192.168.0.239:8080/svn/SecondVideo/trunk/OneSecond
+http://yangxiaozhou@192.168.0.239:8080/svn/SecondVideo
+
+
+
+2016-07-18T09:34:03.953125Z
+61
+yangxiaozhou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d54de2ea-c05a-8348-944a-a80499057557
+
+Model
+dir
+
+OneSecondTests
+dir
+
+OpenSource
+dir
+
+Controllers
+dir
+
+Resource
+dir
+
+OneSecond.xcodeproj
+dir
+
+Define
+dir
+
+Framework
+dir
+
+OneSecond
+dir
+
+Views
+dir
+
+OneSecondUITests
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/SecondVideo/!svn/ver/34/trunk/OneSecond/Views/common
+END
+AdLunchView.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SecondVideo/!svn/ver/7/trunk/OneSecond/Views/common/AdLunchView.h
+END
+CustomAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SecondVideo/!svn/ver/34/trunk/OneSecond/Views/common/CustomAlertView.h
+END
+AdLunchView.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SecondVideo/!svn/ver/7/trunk/OneSecond/Views/common/AdLunchView.m
+END
+CustomAlertView.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SecondVideo/!svn/ver/34/trunk/OneSecond/Views/common/CustomAlertView.m
+END
+PullRefreshCollectionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/common/PullRefreshCollectionView.h
+END
+PullRefreshCollectionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/Views/common/PullRefreshCollectionView.m
+END

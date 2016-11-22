@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  OneSecond
+
+  Created by 杨晓周 on 16/6/8.
+  Copyright © 2016年 uper. All rights reserved.
+*/
+"record Video"="Record Video";
+"next" = "Next";
+"edit" = "Edit";
+"delete" = "delete";
+"continiue record" = "continiue";
+"second" = "second";
+"new draft" = "New/Draft";
+"finish video" = "Completed";
+"new" = "New";
+"A second a lens Can record up to 60 lens" = "One second a shot. Up to 60 shots a time";
+"Continiu Edit" = "Continiu Edit";
+"a videos" = "videos";
+"Browse" = "Browse";
+"record video max second" = "Done shooting. Upload now!";
+"reach the max video max second" = "Already recorded for 60s. Upload now!";
+"publish" = "publish";
+"cancel" = "cancel";
+"The shortest recorded 5 seconds" = "Please record 5 seconds at least";
+"Long press to move video sequence" = "Long press to move video sequence";
+"video generating" = "video Generating ...";
+"Music Loading..." = "Music Loading ...";
+"video preview" = "Video Preview";
+"select cover" = "Select Cover";
+"Filter" = "Filter";
+"soundtrack" = "Soundtrack";
+"Add local music" = "Add local music";
+"no soundtrack" = "Mute";
+"use" = "use";
+"download" = "download";
+"save/share" = "Save/Share";
+"share" = "Share";
+"Saved to the local" = "Saved";
+"Share To" = "Share To";
+"share success" = "share success";
+"share failure" = "share failure";
+"Sure you want to delete this video?" = "Sure you want to delete this video?";
+"Delete this video will delete the source files at the same time" = "Delete this video will delete the source files at the same time";
+"Moments" = "Moments";
+"Weibo" = "Weibo";
+"WeChat" = "WeChat";
+"One-sec video would like to send you notifications" = "One-sec video would like to send you notifications";
+"Allow notifications" = "Allow notifications";
+"wish" = "wish";
+"unwish" = "unwish";
+"video finishes handling" = "This video has been moved";
+"video handling" = "Moving the video";
+"share HD Video" = "share HD Video";
+"share Regular Video" = "share Regular Video";

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common
+END
+QNNetworkInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common/QNNetworkInfo.m
+END
+QNDomain.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common/QNDomain.m
+END
+QNResolverDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common/QNResolverDelegate.h
+END
+QNRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common/QNRecord.h
+END
+QNDnsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common/QNDnsManager.h
+END
+QNRecord.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common/QNRecord.m
+END
+QNDnsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common/QNDnsManager.m
+END
+QNNetworkInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common/QNNetworkInfo.h
+END
+QNDomain.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/SecondVideo/!svn/ver/2/trunk/OneSecond/OpenSource/HappyDNS/Common/QNDomain.h
+END
